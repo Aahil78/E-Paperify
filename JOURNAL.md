@@ -58,4 +58,6 @@ Hi! Today I completed the schematic, changed some parts, added some stuff to the
 
 My schematic is finally done! I used AI for some help because I'm really trying to make the project successful but for programming I def won't use AI. Idk what else to say, oh yeah I decided to use 5 MX Switches (w/hotswap sockets) and an EC11 Encoder w/SW. Additionally I'm also using SK6812MINI-Es under the switches so the Switch backlight syncs with the cover art, there's an RGB Connector at the end of the SK6812s for a nice underglow as well. Not sure if the USB-C power will be enough. Actually I'll add a 2pin Power connector so I can use a PD Module if the power dosen't work out and only use the USB Port for programming and such. If I'll have to use the PD Module then I'm gonna use Bluetooth for the data of spotify and any music playing, same for controls then. I'll try to complete the PCB by today asw!
 
+![image](https://halflife.hackclub-assets.com/sessions/5yRhaZWjKN0Pyg8ixPRrKYwQUPHX1wAx/20f6e40760504961a51c3a41f345847ed6236c61e8fe7086ffd3963f3d310d71.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/a2dd6a89-4acf-4d78-9f7b-eee1136b1634/video.mp4)
